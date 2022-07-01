@@ -1,0 +1,4 @@
+Refactoring Type	Source Entity	Target Class	Source/Target accessed members	Rate it!
+Move Method	com.xxl.job.admin.core.thread.JobScheduleHelper::refreshNextValidTime(com.xxl.job.admin.core.model.XxlJobInfo, java.util.Date):void	com.xxl.job.admin.core.model.XxlJobInfo	1/7	
+Move Method	com.xxl.job.admin.controller.JobGroupController::save(com.xxl.job.admin.core.model.XxlJobGroup):com.xxl.job.core.biz.model.ReturnT<java.lang.String>	com.xxl.job.admin.core.model.XxlJobGroup	1/5	
+Move Method	com.xxl.job.admin.controller.JobGroupController::update(com.xxl.job.admin.core.model.XxlJobGroup):com.xxl.job.core.biz.model.ReturnT<java.lang.String>	com.xxl.job.admin.core.model.XxlJobGroup	2/6	

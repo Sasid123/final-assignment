@@ -1,0 +1,9 @@
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	url	B5	0/2
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	data	B1	3/6
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	data	B3	2/5
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	data	B4	1/3
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	data	B9	0/2
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	method	B1	3/6
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	method	B3	2/5
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	method	B4	1/3
+com.xxl.job.executor.sample.frameless.jobhandler.SampleXxlJob	public void httpJobHandler() throws java.lang.Exception	method	B7	0/2
